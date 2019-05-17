@@ -1,0 +1,1 @@
+{"version":3,"sources":["_global.scss"],"names":[],"mappings":"AAAA,OACI,WAAY,CACZ,mBAAS,CAAT,mBAAS,CAAT,YAAa,CAChB,OAGG,gBAAiB","file":"main.css","sourcesContent":["header{\r\n    width: 100px;\r\n    display: flex;\r\n}\r\n\r\nfooter{\r\n    background: white;\r\n}"]}
